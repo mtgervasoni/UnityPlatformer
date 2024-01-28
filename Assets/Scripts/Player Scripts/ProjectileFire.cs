@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletFire : MonoBehaviour
+public class ProjectileFire : MonoBehaviour
 {
 
     private float speed = 10f; //bullet speed
